@@ -3,7 +3,7 @@
 babc is a simple, yet useful, C library implementing some features a standard
 library should have.
 
-I co-wrote with [Louis Person](https://github.com/kureuil) during our first
+I co-wrote it with [Louis Person](https://github.com/kureuil) during our first
 year at Epitech, for our personal use. Thus, it respects a lot of Epitech's
 standard and programming style.
 
