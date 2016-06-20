@@ -5,7 +5,7 @@
 ** Login   <rius_b@epitech.net>
 ** 
 ** Started on  Fri Nov 21 19:04:13 2014 Brendan Rius
-** Last update Sat May 30 00:04:13 2015 Adrien Paris
+** Last update Fri May 29 23:56:25 2015 Louis Person
 */
 
 #ifndef LLIST_H_
